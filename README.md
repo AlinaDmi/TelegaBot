@@ -1,7 +1,6 @@
-# TelegaWeatherBot
+# Telegram WeatherBot
+A Telegram weather bot that shows the forecast for the selected city. It is possible to subscribe to the weather newsletter.
  
- Погодный бот для Телеграмм, который показывает прогноз по выбранному городу. Есть возможность подписаться на рассылку погоды.
- 
- ## Пример работы
+ ## Example
  
  ![screenshot](sample.png)
